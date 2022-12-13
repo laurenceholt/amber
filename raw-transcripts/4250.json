@@ -1,0 +1,62 @@
+[
+    {
+        "start": "00:00.00",
+        "stop": "00:04.08",
+        "speaker": "Tutor",
+        "dialogue": "There we go."
+    },
+    {
+        "start": "00:04.08",
+        "stop": "00:07.08",
+        "speaker": "Tutor",
+        "dialogue": "Now it's being recorded."
+    },
+    {
+        "start": "00:07.08",
+        "stop": "00:10.68",
+        "speaker": "Observer?",
+        "dialogue": "All right."
+    },
+    {
+        "start": "00:10.68",
+        "stop": "00:12.68",
+        "speaker": "Observer?",
+        "dialogue": "So I think I'll just have to stay in here."
+    },
+    {
+        "start": "00:12.68",
+        "stop": "00:16.32",
+        "speaker": "Observer?",
+        "dialogue": "I'll mute the tab so I'm not listening in on you guys."
+    },
+    {
+        "start": "00:16.32",
+        "stop": "00:19.04",
+        "speaker": "Observer?",
+        "dialogue": "But once it's over, it'll have the recording."
+    },
+    {
+        "start": "00:19.04",
+        "stop": "00:22.48",
+        "speaker": "Tutor",
+        "dialogue": "And then FYI, I'll start the other session."
+    },
+    {
+        "start": "00:22.48",
+        "stop": "00:24.48",
+        "speaker": "Observer?",
+        "dialogue": "I'll stick around and see if you have the same issue."
+    },
+    {
+        "start": "00:24.48",
+        "stop": "00:25.48",
+        "speaker": "Observer?",
+        "dialogue": "Okay."
+    },
+    {
+        "start": "00:25.48",
+        "stop": "00:26.48",
+        "speaker": "Tutor",
+        "dialogue": "Okay, cool."
+    }
+]

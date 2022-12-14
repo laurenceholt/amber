@@ -35,4 +35,4 @@ This repo contains the following data files:
 "dialogue": The text output by the speech-to-text algorithm
 ```
 
-The contact for XQ is annotation@eduworks.com
+The contact for this data is annotation@eduworks.com

@@ -20,7 +20,7 @@ The coding schema: Altogether we have around 300 available codes, only a fractio
 "contentFocus": Corresponds to a specific focus within the lesson
 "contentCode": A content-specific tag
 "exemplar": A text string, in some cases with embedded components, that serves multiple purposes, including (a) assessment of student contributions (e.g. we can test whether the student's contribution matches the exemplar), (b) a source for NLP algorithms to use in generating contributions; and (c) reviewing the match between the initial contribution and the exemplar, as a check on the "fit" of the tag.
-"codeFit": The annotor's judgement as to the extent to which the full code is a good match for the initial contribution. The primary test is whether an NLP process which takes the dialog act and exemplar as inputs might be able to output a string (e.g., a tutoring move) that is roughly equivalent to the original contribution (Column E)
+"codeFit": The annotator's judgement as to the extent to which the full code is a good match for the initial contribution. The primary test is whether an NLP process which takes the dialog act and exemplar as inputs might be able to output a string (e.g., a tutoring move) that is roughly equivalent to the original contribution (Column E)
 ```
 
 ### raw-transcripts/

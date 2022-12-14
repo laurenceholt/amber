@@ -2,15 +2,12 @@
 
 This repo contains the following data files:
 
-### CodeTable_TrainingSet.csv 
-
-The coding schema: Altogether we have around 300 available codes, only a fraction of which are actually in use so far. The schema is pretty far along, but not final. We're still adding codes as we encounter new needs. 
-
 ### annotated-data/
-- JSON file containing a sample of segments extracted from over 40 different transcripts
+- CodeTable_TrainingSet.csv: The coding schema that maps to 'contentFocus', 'contentCode', and 'exemplar' in the XQ-Training-Set.json file. Altogether there around 300 available codes, only a fraction of which are actually in use so far. The schema is pretty far along, but not final. More codes are added as we encounter new needs. 
+- XQ_Training_Set.json: JSON file containing a sample of segments extracted from over 40 different transcripts
 - JSON fields:
 ```
-"source": Transcript ID
+"source": Transcript ID 
 "start": Timestamp
 "stop": Timestamp
 "speaker": Speaker role (Tutor, Student)

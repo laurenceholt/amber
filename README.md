@@ -1,5 +1,8 @@
 # xq-data
 
+This data is from recordings of live math tutoring sessions done on PRACTICE Benefit Corp tutoring software for a Semi Auto Tutor project funded by the XQ Institute. 
+
+
 This repo contains the following data files:
 
 ### annotated-data/

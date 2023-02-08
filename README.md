@@ -1,8 +1,8 @@
 # xq-data
 
-In 2022, the XQ Institute began a series of recordings of tutoring sessions in order to generate data to train machine learning models on.
+In 2022, the XQ Institute began a series of recordings of tutoring sessions in order to generate data on which to train machine learning models.
 
-Each recording included the same tutor ("Amber"), the same problem (see below), and a different student. Students were typically in 8th or 9th grade. The sessions were conducted on a zoom-like platform in which both the tutor and the student could annotate the image. They lasted around 1 hour each.
+Each recording included the same tutor ("Amber"), a single, rich mathematics problem (see below), and a different student. Students were typically in 8th or 9th grade. The sessions were conducted on a zoom-like platform in which both the tutor and the student could annotate the image. They lasted around 1 hour each.
 
 <img width="1404" alt="image" src="https://user-images.githubusercontent.com/10891410/217504750-7e7f33a9-e74c-474e-97e0-eb6a115d7844.png">
 

@@ -1,6 +1,11 @@
 # xq-data
 
-This data is from recordings of live math tutoring sessions done on PRACTICE Benefit Corp tutoring software for a Semi Auto Tutor project funded by the XQ Institute. 
+In 2022, the XQ Institute began a series of recordings of tutoring sessions in order to generate data to train machine learning models on.
+
+Each recording included the same tutor ("Amber"), the same problem (see below), and a different student. Students were typically in 8th or 9th grade. The sessions lasted around 1 hour each.
+
+<img width="1404" alt="image" src="https://user-images.githubusercontent.com/10891410/217504750-7e7f33a9-e74c-474e-97e0-eb6a115d7844.png">
+
 
 
 This repo contains the following data files:
